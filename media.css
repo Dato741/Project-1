@@ -1,0 +1,1079 @@
+@media screen and (max-width: 1024px) {
+    #search {
+        width: 300px;
+    }
+
+    .b-sellers p {
+        font-size: 14px;
+    }
+
+    .sale-price {
+        font-size: 15px !important;
+    }
+
+    .text h1 {
+        font-size: 40px;
+    }
+
+    .e-offer-text {
+        width: 40.1%;
+    }
+
+    .e-offer-text h1 {
+        font-size: 70px;
+    }
+
+    .e-offer-text h3 {
+        font-size: 25px;
+    }
+
+    .e-offer-text h2 {
+        font-size: 25px;
+    }
+
+    .e-offer-text p {
+        font-size: 15px;
+    }
+
+    .e-offer-text button,
+    .e-offer2-text button {
+        padding: 8px 50px 10px 50px;
+    }
+
+    .price-button {
+        width: 130px;
+        height: 130px;
+    }
+
+    .price-button h2 {
+        font-size: 25px;
+    }
+
+    .diagonal-2 {
+        left: 39.9%;
+    }
+
+    .e-offer2-text h1,
+    .e-offer2-text span {
+        font-size: 70px;
+    }
+
+    .e-offer2-text h3 {
+        font-size: 20px;
+    }
+
+    .e-offer2-text h5 {
+        font-size: 16px;
+    }
+
+    .e-offer2-text p {
+        font-size: 14px;
+    }
+
+    .newsletter .form-control {
+        margin: 0px 130px;
+    }
+
+    .subscribe {
+        padding: 10px 70px;
+        right: 18%;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .n-1 .col-8 {
+        width: 60%;
+    }
+
+    .n-1 .col-4 {
+        width: 40%;
+    }
+
+    .logo {
+        font-size: 25px;
+    }
+
+    .search {
+        height: 35px;
+        width: 220px;
+    }
+
+    .s-button {
+        height: 35px;
+    }
+
+    .text h1 {
+        font-size: 35px;
+    }
+
+    .text p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .n-1 .col-8 {
+        width: 50%;
+    }
+
+    .n-1 .col-4 {
+        width: 50%;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .search {
+        height: 25px;
+        width: 140px;
+        font-size: 12px;
+    }
+
+    .s-button {
+        height: 25px;
+        width: 40px;
+    }
+
+    .bi-search::before {
+        vertical-align: 5px;
+        font-size: 13px;
+    }
+
+    .login img {
+        width: 40px;
+    }
+
+    .login span,
+    .favourites span {
+        font-size: 13px;
+    }
+
+    .favourites i,
+    .shop i {
+        font-size: 15px;
+    }
+
+    .bi-suit-heart::before {
+        vertical-align: -3px;
+        font-size: 13px;
+    }
+
+    .shop-b {
+        padding: 3px;
+        font-size: 8px;
+        margin-bottom: 6px;
+    }
+
+    .n-3 a {
+        font-size: 13px;
+    }
+
+    .advertisement-t h1 {
+        font-size: 40px;
+    }
+
+    .advertisement-t p {
+        font-size: 14px;
+    }
+
+    .prices {
+        font-size: 15px;
+    }
+
+    .advertisement-t button {
+        padding: 5px 35px !important;
+        font-size: 15px;
+    }
+
+    .text h1 {
+        font-size: 25px;
+    }
+
+    .text p {
+        font-size: 15px;
+    }
+
+    .text button {
+        font-size: 12px;
+        padding: 5px 35px !important;
+    }
+
+    .just-in button {
+        margin-top: 0px !important;
+    }
+
+    .banner img {
+        width: 50px;
+    }
+
+    .banner p {
+        font-size: 14px;
+    }
+
+    .banner i {
+        font-size: 30px;
+    }
+
+    .bi-box-seam {
+        margin-right: 15px;
+    }
+
+    .sale-img {
+        height: 100px !important;
+    }
+
+    .b-sellers button {
+        padding: 8px 80px 10px 80px;
+    }
+
+    .category-img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .category-img img {
+        width: 77%;
+    }
+
+    .drone img {
+        left: 1%;
+        top: 25%;
+        width: 100%;
+    }
+
+    .sale img {
+        width: 45%;
+        left: 25%;
+        top: 30%;
+    }
+
+    .achievement img {
+        width: 50%;
+        left: 25%;
+        top: 25%;
+    }
+
+    .tv img {
+        width: 75%;
+    }
+
+    .headphones img {
+        width: 130%;
+        left: -15%;
+    }
+
+    .category p {
+        font-size: 15px !important;
+    }
+
+    .e-offer-text h1 {
+        font-size: 50px;
+    }
+
+    .e-offer-text h3 {
+        font-size: 18px;
+        margin-top: 70px !important;
+    }
+
+    .e-offer-text h2 {
+        font-size: 20px !important;
+    }
+
+    .e-offer-text p {
+        font-size: 13px;
+    }
+
+    .e-offer-text button,
+    .e-offer2-text button {
+        padding: 5px 40px 7px 40px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .price-button {
+        width: 90px;
+        height: 90px;
+    }
+
+    .price-button h2 {
+        font-size: 20px;
+    }
+
+    .sale-b {
+        font-size: 8px;
+        padding: 4px 8px;
+    }
+
+    .e-offer2-text h1,
+    .e-offer2-text span {
+        font-size: 45px;
+    }
+
+    .e-offer2-text h1 {
+        margin-right: 10px;
+    }
+
+    .e-offer2-text h3 {
+        font-size: 16px;
+    }
+
+    .e-offer2-text h5 {
+        font-size: 13px;
+        margin-top: 35px;
+    }
+
+    .e-offer2-text p {
+        font-size: 11px;
+        margin-top: 15px !important;
+    }
+
+    .newsletter {
+        height: 170px;
+    }
+
+    .newsletter h2 {
+        font-size: 18px;
+        padding-top: 25px !important;
+    }
+
+    .newsletter p {
+        font-size: 13px;
+        margin-top: 10px !important;
+    }
+
+    .newsletter .form-control {
+        margin: 0px 40px 0px 100px;
+    }
+
+    .subscribe {
+        padding: 5px 50px;
+        right: 13%;
+        font-size: 12px;
+    }
+
+    .text-box h2 {
+        font-size: 20px;
+    }
+
+    .text-box p {
+        font-size: 10px;
+    }
+
+    .h-center button {
+        padding: 5px 15px 7px 15px;
+        font-size: 10px;
+    }
+
+    .footer {
+        padding-bottom: 0px;
+    }
+
+    .footer p {
+        font-size: 10px;
+    }
+
+    .footer p:nth-of-type(4) {
+        margin-bottom: 10px !important;
+    }
+
+    .footer h5 {
+        font-size: 15px;
+        margin-bottom: 30px !important;
+    }
+
+    .footer i {
+        font-size: 12px;
+    }
+
+    .footer-2 .payment {
+        width: 55px;
+        margin: 25px 10px;
+    }
+
+    .footer-2 p {
+        font-size: 12px;
+        padding-top: 50px;
+    }
+
+    .copyright {
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .menu {
+        display: block;
+    }
+
+    .n-1 {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 5;
+        width: 100%;
+    }
+
+    .n-1 .col-8 {
+        width: 100%;
+        justify-content: left !important;
+    }
+
+    .n-1 .col-4 {
+        display: block;
+        position: fixed;
+        width: 100%;
+        height: 120vh;
+        background-color: black;
+        z-index: 5;
+        top: 45px;
+        left: -100%;
+        transition: all .5s;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .n-1 .col-4 div {
+        z-index: 6;
+        display: block;
+        padding: 20px 0px;
+    }
+
+    #check:checked~.col-4 {
+        left: 0;
+    }
+
+    #check:checked~.n-1 {
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+
+    .n-2 {
+        margin-top: 45px;
+    }
+
+    .n-2 .container-fluid {
+        width: 100% !important;
+    }
+
+    .n-2 .c-2 {
+        justify-content: space-around !important;
+        margin-top: 20px;
+    }
+
+    .search {
+        margin-top: 3px;
+        width: 200px;
+    }
+
+    .s-button {
+        margin-top: 3px;
+    }
+
+    .login,
+    .favourites {
+        margin-right: 0px;
+    }
+
+    .login img {
+        width: 25px;
+    }
+
+    .login span {
+        font-size: 10px;
+    }
+
+    .favourites span {
+        font-size: 9px;
+    }
+
+    .favourites i {
+        margin-right: 0px;
+    }
+
+    .n-3 div {
+        justify-content: space-around !important;
+    }
+
+    .prices {
+        font-size: 10px;
+    }
+
+    .advertisement-t h1 {
+        font-size: 20px;
+    }
+
+    .advertisement-t p {
+        font-size: 7px;
+        margin-bottom: 2px;
+    }
+
+    .advertisement-t button {
+        padding: 4px 17px !important;
+        font-size: 7px;
+    }
+
+    .text h1 {
+        font-size: 10px;
+    }
+
+    .text p {
+        font-size: 7px;
+        margin: 3px 0px !important;
+    }
+
+    .text button {
+        font-size: 7px;
+        padding: 1px 16px !important;
+    }
+
+    .h-deals button {
+        margin-top: 0px !important;
+    }
+
+    .just-in button {
+        margin-top: 0px !important;
+    }
+
+    .banner img {
+        width: 20px;
+    }
+
+    .banner p {
+        font-size: 7px;
+    }
+
+    .banner i {
+        font-size: 10px;
+    }
+
+    .bi-box-seam {
+        margin-right: 7px;
+    }
+
+    .banner {
+        height: 55px;
+    }
+
+    .banner .col-3 {
+        padding: 0px !important;
+    }
+
+    .b-sellers {
+        height: 875px;
+    }
+
+    .b-sellers .row .col-2 {
+        width: 50%;
+        height: 240px;
+    }
+
+    .b-sellers-header {
+        font-size: 18px !important;
+        padding: 15px 0px !important;
+        margin-bottom: 0px;
+    }
+
+    .b-sellers .row p {
+        font-size: 11px !important;
+        padding: 20px 15px 0px 15px !important;
+        margin-bottom: 0px;
+    }
+
+    .sale-price {
+        font-size: 13px !important;
+    }
+
+    .sale-img {
+        height: 120px !important;
+    }
+
+    .b-sellers button {
+        padding: 4px 50px 5px 50px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+
+    .category {
+        height: 1300px;
+    }
+
+    .category .row {
+        margin-top: 0px !important;
+    }
+
+    .category p {
+        padding: 30px 0px;
+    }
+
+    .category .col-2 {
+        width: 50%;
+    }
+
+    .category-img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .category-img img {
+        width: 77%;
+    }
+
+    .drone img {
+        left: 1%;
+        top: 25%;
+        width: 100%;
+    }
+
+    .sale img {
+        width: 45%;
+        left: 25%;
+        top: 30%;
+    }
+
+    .achievement img {
+        width: 50%;
+        left: 25%;
+        top: 25%;
+    }
+
+    .tv img {
+        width: 75%;
+    }
+
+    .headphones img {
+        width: 130%;
+        left: -15%;
+    }
+
+    .category p {
+        font-size: 15px !important;
+    }
+
+    .e-offer-text {
+        padding-left: 20px;
+    }
+
+    .e-offer-text h1 {
+        font-size: 30px;
+    }
+
+    .e-offer-text h3 {
+        font-size: 9px;
+        margin-top: 30px !important;
+        margin-bottom: 3px;
+    }
+
+    .e-offer-text h2 {
+        font-size: 10px !important;
+    }
+
+    .e-offer-text p {
+        font-size: 5px;
+        margin-bottom: 10px;
+    }
+
+    .e-offer-text button,
+    .e-offer2-text button {
+        padding: 1px 15px 2px 15px;
+        margin-top: 0px;
+        font-size: 8px;
+    }
+
+    .price-button {
+        width: 40px;
+        height: 40px;
+        left: 46%;
+    }
+
+    .price-button h2 {
+        font-size: 9px;
+        margin-bottom: 3px;
+    }
+
+    .sale-b {
+        font-size: 8px;
+        padding: 4px 8px;
+    }
+
+    .e-offer2-text h1,
+    .e-offer2-text span {
+        font-size: 45px;
+    }
+
+    .e-offer2-text h1 {
+        margin-right: 10px;
+    }
+
+    .e-offer2-text h3 {
+        font-size: 16px;
+    }
+
+    .e-offer2-text h5 {
+        font-size: 13px;
+        margin-top: 35px;
+    }
+
+    .e-offer2-text p {
+        font-size: 11px;
+        margin-top: 15px !important;
+    }
+
+    .on-sale {
+        height: 900px;
+    }
+
+    .on-sale p {
+        padding: 30px 0px !important;
+        font-size: 18px !important;
+    }
+
+    .e-offer2-text {
+        padding-left: 20px;
+    }
+
+    .e-offer2-text h5 {
+        font-size: 5px;
+        margin-top: 20px;
+    }
+
+    .e-offer2-text h3 {
+        font-size: 9px;
+        margin: 0px !important;
+    }
+
+    .e-offer2-text h1 {
+        margin: 8px 5px 8px 0px;
+    }
+
+    .e-offer2-text h1,
+    .e-offer2-text span {
+        font-size: 20px;
+    }
+
+    .e-offer2-text p {
+        font-size: 5px;
+        margin: 8px 0px 0px 0px !important;
+    }
+
+    .e-offer2-text button {
+        margin-top: 5px !important;
+    }
+
+    .brands {
+        height: 130px;
+    }
+
+    .brands h2 {
+        font-size: 15px !important;
+        padding: 15px 0px !important;
+    }
+
+    .brand-box {
+        height: 40px;
+    }
+
+    .brand-box img {
+        width: 100% !important;
+        padding: 0px !important;
+    }
+
+    .newsletter {
+        height: 130px;
+    }
+
+    .newsletter h2 {
+        font-size: 15px;
+        padding-top: 20px !important;
+    }
+
+    .newsletter p {
+        font-size: 7px;
+        margin-top: 10px !important;
+    }
+
+    .newsletter .form-control {
+        margin: 0px 20px 0px 45px;
+        height: 25px !important;
+        font-size: 8px;
+    }
+
+    .subscribe {
+        padding: 0px 15px;
+        right: 13%;
+        font-size: 7px;
+        height: 25px !important;
+    }
+
+    .text-box h2 {
+        font-size: 11px;
+    }
+
+    .text-box p {
+        font-size: 6px;
+        margin: 5px 0px !important;
+    }
+
+    .h-center button {
+        padding: 3px 10px 4px 10px;
+        font-size: 6px;
+    }
+
+    .footer {
+        padding-bottom: 0px;
+    }
+
+    .footer p {
+        font-size: 7px;
+    }
+
+    .footer p:nth-of-type(4) {
+        margin-bottom: 10px !important;
+    }
+
+    .footer h5 {
+        font-size: 10px;
+        margin-bottom: 20px !important;
+    }
+
+    .footer i {
+        font-size: 7px;
+        padding: 0px !important;
+    }
+
+    .footer-2 {
+        padding-top: 30px;
+    }
+
+    .footer-2 .payment {
+        width: 30px;
+        margin: 25px 5px;
+    }
+
+    .footer-2 .payment img {
+        width: 450%;
+    }
+
+    .footer-2 p {
+        font-size: 10px;
+        padding-top: 40px;
+    }
+
+    .copyright {
+        font-size: 11px;
+    }
+
+    .chat {
+        width: 40px;
+        height: 40px;
+        bottom: 10px;
+        right: 10px;
+    }
+
+    .bi-chat-text-fill {
+        font-size: 21px;
+    }
+}
+
+/* About */
+
+@media screen and (max-width:1024px) {
+    .about h1 {
+        padding: 60px 0px 80px 0px;
+        font-size: 40px;
+    }
+
+    .about .row div:nth-of-type(2) {
+        padding: 10px 50px 0px 50px;
+    }
+
+    .about .row p {
+        font-size: 15px;
+        margin-top: 20px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #search {
+        width: 200px;
+    }
+
+    .about h1 {
+        padding: 50px 0px 60px 0px;
+        font-size: 30px;
+    }
+
+    .about .row div:nth-of-type(2) {
+        padding: 10px 20px 0px 20px;
+    }
+
+    .about .row p {
+        font-size: 10px;
+        margin-top: 10px !important;
+        line-height: 20px;
+    }
+
+    .about p {
+        font-size: 15px;
+    }
+
+    .about h2 {
+        padding-top: 40px;
+        font-size: 25px;
+    }
+
+    .about .row-2 {
+        margin: 120px 100px 100px;
+    }
+
+    .tag {
+        font-size: 15px;
+    }
+
+    .row-2 button {
+        padding: 7px 50px 8px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .about h1 {
+        padding: 40px 0px 45px 0px;
+        font-size: 20px;
+    }
+
+    .about .row .col-6 {
+        width: 100% !important;
+    }
+
+    .about .row div:nth-of-type(2) {
+        padding: 10px 20px 0px 20px;
+    }
+
+    .about .row p {
+        font-size: 10px;
+        margin-top: 10px !important;
+        line-height: 20px;
+    }
+
+    .about p {
+        font-size: 9px;
+    }
+
+    .about h2 {
+        padding-top: 24px;
+        font-size: 18px;
+    }
+
+    .about .row-2 {
+        margin: 70px 75px 20px;
+    }
+
+    .about .row-2 .col-5,
+    .about .row-2 .col-8,
+    .about .row-2 .col-4 {
+        width: 100%;
+        margin-top: 0px !important;
+    }
+
+    .tag {
+        font-size: 12px;
+        top: -30px;
+    }
+
+    .about .row-2 input {
+        font-size: 12px;
+    }
+
+    .row-2 button {
+        padding: 7px 120px 8px;
+        font-size: 15px;
+        left: 50%;
+        bottom: -25px;
+        transform: translateX(-50%);
+        font-size: 12px;
+    }
+}
+
+/* Contact */
+
+@media screen and (max-width: 1024px) {
+    .contact h1 {
+        font-size: 40px;
+        margin: 90px 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact h1 {
+        font-size: 30px;
+        margin: 70px 0px;
+    }
+
+    .contact h5 {
+        font-size: 17px !important;
+    }
+
+    .contact p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .contact .col-6 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .contact .row .col-6:nth-of-type(2) {
+        margin-top: 60px;
+    }
+
+    .contact .row-2 {
+        flex-wrap: wrap;
+    }
+
+    .contact .row-2 .col-6 {
+        width: 100% !important;
+        margin-top: 0px !important;
+    }
+
+    .contact h1 {
+        font-size: 20px;
+        margin: 40px 0px;
+    }
+
+    .contact .row {
+        margin: 0px 50px;
+    }
+
+    .contact .row::before {
+        margin-bottom: 50px;
+    }
+
+    .contact h5 {
+        font-size: 15px !important;
+        margin-bottom: 25px !important;
+    }
+
+    .contact p {
+        font-size: 11px;
+    }
+
+    .contact h5:nth-of-type(2) {
+        margin-top: 60px;
+    }
+
+    .contact .row-2:nth-of-type(1) {
+        margin-top: 60px !important;
+    }
+
+    .contact button {
+        padding: 7px 125px 8px;
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+}
